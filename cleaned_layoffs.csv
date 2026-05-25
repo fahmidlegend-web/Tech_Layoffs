@@ -1,0 +1,490 @@
+company,total_layoffs,impacted_workforce_percentage,reported_date,industry,headquarter_location,sources,status,additional_notes,reported_year,month
+C2FO,20.0,2.0,2022-12-09,"Fintech, payments","Leawood, KS",Kansas City Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+VideoAmp,1505.0,2.0,2022-09-19,Advertising platforms,Los Angeles,Company memo,Private,,1970-01-01 00:00:00.000002022,1970-01
+Amperity,13.0,3.0,2022-08-20,"Saas, analytics",Seattle,Geekwire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Addepar,20.0,3.0,2023-01-18,"fintech, data analytics","Mountain View, CA",Fortune,Private,,1970-01-01 00:00:00.000002023,1970-01
+Thirty Madison,24.0,3.0,2022-05-13,Health Care,New York,Axios,Private,"Per Axios, 22 of the employees laid off were from Thirty Madison, and two were from new parent company Nurx. Layoffs affected around 3% of employees.",1970-01-01 00:00:00.000002022,1970-01
+NextRoll,11726.0,3.0,2022-07-08,Marketing Tech,San Francisco,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Armis Security,25.0,4.0,2022-12-08,Cybersecurity,San Francisco,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Foxtrot,26.0,4.0,2022-09-23,"food and beverage, e-commerce",Chicago,Chicago Business,Private,,1970-01-01 00:00:00.000002022,1970-01
+Headspace Health,50.0,4.0,2022-12-14,"telehealth, wellness",Los Angeles,Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+RealSelf,11.0,5.0,2022-07-21,Beauty tech,Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+New Relic,110.0,5.0,2022-08-18,"productivity, enterprise software","Bay Area, CA",MarketWatch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Abra,12.0,5.0,2022-06-30,Crypto,Mountain View,The Block,Private,,1970-01-01 00:00:00.000002022,1970-01
+Clarify Health,15.0,5.0,2022-07-22,Health Care,San Francisco,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+Argo AI,150.0,5.0,2022-07-07,Transportation,Pittsburgh,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Snyk,220.0,5.0,2022-10-24,Cybersecurity,Boston,Globes,Private,,1970-01-01 00:00:00.000002022,1970-01
+JOKR,50.0,5.0,2022-06-16,"Food delivery, ecommerce",New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Project44,63.0,5.0,2022-07-15,Logistics,Chicago,FreightWaves,Private,,1970-01-01 00:00:00.000002022,1970-01
+Reef,750.0,5.0,2022-05-06,"Food delivery, ecommerce",Miami,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Outreach,16541.0,5.0,2022-08-02,Sales Tech,Seattle,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Boosted Commerce,13428.0,5.0,2022-07-25,E-commerce,Los Angeles,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Forward,356.0,5.0,2022-07-11,Health Care,San Francisco,Fierce Healthcare,Private,,1970-01-01 00:00:00.000002022,1970-01
+CoinDCX,100.0,6.0,2023-01-11,"Blockchain, cryptocurrency","Mumbai, India",Biometric Update,Private,,1970-01-01 00:00:00.000002023,1970-01
+Food52,20.0,6.0,2022-04-08,"Media, E-commerce",New York,Digiday,Private,,1970-01-01 00:00:00.000002022,1970-01
+Motive,237.0,6.0,2022-12-07,"enterprise software, productivity",San Francisco,Motive,Private,,1970-01-01 00:00:00.000002022,1970-01
+Canoo,58.0,6.0,2022-07-01,Transportation,"Torrance, California",Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Wonder,130.0,7.0,2022-11-30,"Food delivery, ecommerce",New York,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Argyle,20.0,7.0,2022-08-26,InsurTech,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Kabam,35.0,7.0,2022-11-09,video games,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Upstart,60.0,7.0,2022-11-01,Fintech,"San Carlos, CA",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Gemini,68.0,7.0,2022-07-18,Crypto,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Faire,84.0,7.0,2022-11-03,"E-commerce, retail",San Francisco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Convoy,90.0,7.0,2022-06-09,Logistics,Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+DataRobot,13599.0,7.0,2022-08-08,Artificial Intelligence,Boston,Boston Globe,Private,,1970-01-01 00:00:00.000002022,1970-01
+ShipBob,15325.0,7.0,2022-08-25,"Shipping, Logistics",Chicago,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+ClickUp,14470.0,7.0,2022-05-24,Productivity Tools,San Diego,Protocol,Private,,1970-01-01 00:00:00.000002022,1970-01
+Innovaccer,120.0,8.0,2022-09-01,"Cloud Infrastructure, health care",San Francisco,Inc42,Private,,1970-01-01 00:00:00.000002022,1970-01
+StockX,120.0,8.0,2022-06-28,E-commerce,Detroit,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Albert,20.0,8.0,2022-06-10,FinTech,Los Angeles,dot.LA,Private,,1970-01-01 00:00:00.000002022,1970-01
+Personetics,30.0,8.0,2023-01-05,"Fintech, analytics",New York,Calcalistech,Private,,1970-01-01 00:00:00.000002023,1970-01
+Bright Machines,30.0,8.0,2022-06-28,Robotics,San Francisco,CTech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Stash Financial,32.0,8.0,2022-12-06,"fintech, personal finance",New York,Stash,Private,,1970-01-01 00:00:00.000002022,1970-01
+Dutchie,56.0,8.0,2022-06-06,Cannabis,"Bend, Oregon",GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Stord,59.0,8.0,2022-06-03,Logistics,Atlanta,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Niantic,85.0,8.0,2022-06-29,"Video Games, AR",San Francisco,Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+Picsart,90.0,8.0,2022-05-17,Media/entertainment,Miami,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Jellysmack,11884.0,8.0,2022-06-09,Media/Entertainment,New York,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Remote,100.0,9.0,2022-07-06,HR Tech,San Francisco,Publico,Private,,1970-01-01 00:00:00.000002022,1970-01
+Vox Media,169.0,9.0,2023-01-20,"Digital media, journalism","Washington, DC",CNN,Private,,1970-01-01 00:00:00.000002023,1970-01
+Yotpo,70.0,9.0,2022-11-16,"marketing, media",New York,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Aura,70.0,9.0,2022-06-24,Cybersecurity,Boston,Bank Info Security,Private,,1970-01-01 00:00:00.000002022,1970-01
+Komodo Health,78.0,9.0,2022-12-13,"Health care, predictive analytics",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Jellyfish US,4367.0,9.0,2023-01-13,"engineering, software",Boston,BostonInno,Private,,1970-01-01 00:00:00.000002023,1970-01
+Khoros,120.0,10.0,2022-10-21,"SaaS, enterprise software",Austin,Austin Business News,Private,,1970-01-01 00:00:00.000002022,1970-01
+Bonterra,140.0,10.0,2023-01-13,"social impact, finance",Distributed,The Nonprofit Times,Private,,1970-01-01 00:00:00.000002023,1970-01
+Chargebee,142.0,10.0,2022-11-02,"Fintech, SaaS",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+6sense,150.0,10.0,2022-10-12,"Artificial Intelligence, Machine Learning",San Francisco,MoneyControl,Private,,1970-01-01 00:00:00.000002022,1970-01
+Relativity,150.0,10.0,2022-12-07,"Data science, enterprise",Chicago,Crain's Chicago,Private,,1970-01-01 00:00:00.000002022,1970-01
+TIFIN,21.0,10.0,2022-06-14,FinTech,Boulder,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+Lusha,30.0,10.0,2022-07-18,Sales tech,New York,CTech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Aqua Security,65.0,10.0,2022-12-05,"SecOps, security","Burlington, MA",Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Spin,78.0,10.0,2022-09-30,Transportation,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Verbit,80.0,10.0,2022-07-05,Natural Language Processing,New York,CTech,Private,,1970-01-01 00:00:00.000002022,1970-01
+ZenLedger,8342.0,10.0,2022-12-09,"Blockchain, cryptocurrency","Bellevue, WA",Blockworks,Private,,1970-01-01 00:00:00.000002022,1970-01
+Firework,5385.0,10.0,2022-11-29,"e-commerce, retail",San Francisco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Mythical Games,14409.0,10.0,2022-11-04,"Video games, blockchain",Los Angeles,Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+Apartment List,15074.0,10.0,2022-08-31,Proptech,San Francisco,CEO Matthew Woods,Private,,1970-01-01 00:00:00.000002022,1970-01
+impact.com,5431.0,10.0,2022-08-25,Digital marketing,"Santa Barbara, CA",impact.com,Private,,1970-01-01 00:00:00.000002022,1970-01
+80 Acres Farms,5731.0,10.0,2023-01-18,"indoor farming, agtech","Hamilton, OH",CincinnatiInno,Private,,1970-01-01 00:00:00.000002023,1970-01
+98point6,10169.0,10.0,2022-07-21,Health Care,Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Gemini,3725.0,10.0,2022-06-02,"Fintech, Crypto",New York,Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+Side,13120.0,10.0,2022-06-01,PropTech,San Francisco,Inman,Private,,1970-01-01 00:00:00.000002022,1970-01
+Carta,200.0,10.0,2023-01-11,Fintech,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+ConsenSys,100.0,11.0,2023-01-10,"Cryptocurrency, FinTech",New York,CoinDesk,Private,,1970-01-01 00:00:00.000002023,1970-01
+Tipalti,123.0,11.0,2023-01-11,FinTech,San Mateo,Calcalistech,Private,,1970-01-01 00:00:00.000002023,1970-01
+Brex,136.0,11.0,2022-10-11,Fintech,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Salsify,90.0,11.0,2022-11-16,"Cloud computing, e-commerce",Boston,Boston Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+SADA,9224.0,11.0,2022-11-08,"Cloud computing, IT",Los Angeles,SADA CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Momentive,3415.0,11.0,2022-10-14,information technology,"Waterford, MI",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Automox,8558.0,11.0,2022-04-18,Security,Boulder,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Klarna,750.0,12.0,2022-09-22,Fintech,Stockholm,Sifted,Private,,1970-01-01 00:00:00.000002022,1970-01
+JumpCloud,100.0,12.0,2023-01-18,"Cloud services, cybersecurity","Louisville, CO",JumpCloud,Private,,1970-01-01 00:00:00.000002023,1970-01
+Chime,156.0,12.0,2022-11-02,Fintech,San Francisco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Embroker,30.0,12.0,2022-10-25,InsurTech,San Francisco,The Insurer,Private,,1970-01-01 00:00:00.000002022,1970-01
+Divvy Homes,40.0,12.0,2022-09-27,PropTech,San Franicsco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Ethos Life,40.0,12.0,2022-06-24,InsurTech,San Francisco,Coverager,Private,,1970-01-01 00:00:00.000002022,1970-01
+GoFundMe,94.0,12.0,2022-10-26,Crowdfunding,"Redwood City, CA",GoFundMe,Private,,1970-01-01 00:00:00.000002022,1970-01
+Digital Currency Group,10.0,13.0,2022-11-02,Cryptocurrency,"Stamford, CT",Coindesk,Private,,1970-01-01 00:00:00.000002022,1970-01
+Intercom,124.0,13.0,2022-11-14,"customer service, automation",San Franicsco,Silicon Republic,Private,,1970-01-01 00:00:00.000002022,1970-01
+SundaySky,24.0,13.0,2022-07-11,Video Conferencing Software,New York,Globes,Private,"Layoffs affect employees in the U.S., Israel, and Japan. Layoffs affected around 13% of employees.",1970-01-01 00:00:00.000002022,1970-01
+Chipper Cash,50.0,13.0,2022-12-06,"fintech, money transfer",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Udacity,55.0,13.0,2022-10-11,"edtech, artificial intelligence","Mountain View, CA",Udacity,Private,,1970-01-01 00:00:00.000002022,1970-01
+Sourcepoint,7.0,13.0,2022-06-02,"Privacy Tech, Marketing Tech",New York,Crunchbase News reporting,Private,Company did not respond to a request to confirm details of layoffs. Layoffs affected around 13% of employees.,1970-01-01 00:00:00.000002022,1970-01
+Thirty Madison,15820.0,13.0,2022-08-18,"health care, wellness",Greater New York area,Fierce Healthcare,Private,,1970-01-01 00:00:00.000002022,1970-01
+Sendoso,100.0,14.0,2022-06-06,Marketing Automation,San Francisco,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Malwarebytes,125.0,14.0,2022-08-17,"security, enterprise software",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Substack,13.0,14.0,2022-06-29,"Media, Content Creators",San Francisco,New York Times,Private,,1970-01-01 00:00:00.000002022,1970-01
+Morning Brew,17772.0,14.0,2022-11-17,"Media, news",New York,Max Tani,Private,,1970-01-01 00:00:00.000002022,1970-01
+Benitago Group,903.0,14.0,2022-11-04,"e-commerce, retail",New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Juniper Square,8465.0,14.0,2022-09-06,Proptech,San Francisco,The Real Deal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Nayya,16.0,15.0,2022-06-17,"Employee Benefits, HR Tech",New York,Crunchbase News reporting,Private,,1970-01-01 00:00:00.000002022,1970-01
+Verily,250.0,15.0,2023-01-11,"health care, data collection",San Francisco,The Information,Private,,1970-01-01 00:00:00.000002023,1970-01
+CyCognito,30.0,15.0,2022-12-08,Cybersecurity,Palo Alto,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Zumper,45.0,15.0,2022-06-16,PropTech,San Francisco,The Real Deal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Polly,47.0,15.0,2022-12-02,"Insurtech, fintech","Williston, VT",VT Digger,Private,,1970-01-01 00:00:00.000002022,1970-01
+Woven,5.0,15.0,2022-08-16,"Artificial intelligence, recruiting",Indianapolis,AdAge,Private,,1970-01-01 00:00:00.000002022,1970-01
+The Mom Project,54.0,15.0,2022-07-20,Talent marketplace,Chicago,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+SonderMind,2068.0,15.0,2022-12-16,telehealth,Denver,Denver Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Apollo,8235.0,15.0,2022-12-15,"developer APIs, enterprise software",San Francisco,Apollo,Private,,1970-01-01 00:00:00.000002022,1970-01
+Code42,11572.0,15.0,2022-11-07,"Cybersecurity, enterprise software",Minneapolis,Star Tribune,Private,,1970-01-01 00:00:00.000002022,1970-01
+Flowhub,5458.0,15.0,2022-09-09,Cannabis,Dever,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Daily Harvest,16966.0,15.0,2022-08-08,"Food delivery, ecommerce",New York City,Fortune,Private,,1970-01-01 00:00:00.000002022,1970-01
+Rock Content,3565.0,15.0,2023-01-12,"content marketing, advertising","Boca Raton, FL",Terra,Private,,1970-01-01 00:00:00.000002023,1970-01
+Lattice,1752.0,15.0,2023-01-12,"Enterprise applications, HR",San Francisco,Lattice CEO Jack Altman,Private,,1970-01-01 00:00:00.000002023,1970-01
+Citrix Systems,16715.0,15.0,2023-01-10,"Security, SaaS","Fort Lauderdale, FL",TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+WHOOP,7214.0,15.0,2022-07-21,Fitness,Boston,Front Office Sports,Private,,1970-01-01 00:00:00.000002022,1970-01
+Papa,2018.0,15.0,2022-07-14,Elder Care,Miami,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Sundae,8260.0,15.0,2022-06-28,"PropTech, Real Estate",San Francisco,Real Trends,Private,,1970-01-01 00:00:00.000002022,1970-01
+TruePill,12165.0,15.0,2022-06-08,Health Care,"Hayward, California",TruePill,Private,,1970-01-01 00:00:00.000002022,1970-01
+Terminus,16810.0,15.0,2022-05-27,Marketing,Atlanta,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Outside Inc,11515.0,15.0,2022-05-20,Media/entertainment,Boulder,Denver Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Stream,20.0,15.0,2022-06-30,Communications Infrastructure,Boulder,Pragmatic Engineer,Private,,1970-01-01 00:00:00.000002022,1970-01
+Carbon Health,450.0,16.0,2023-01-06,Health Care,San Francisco,Carbon Health CEO Eren Bali,Private,,1970-01-01 00:00:00.000002023,1970-01
+Jam City,200.0,17.0,2022-08-04,"Mobile Apps, Gaming",Culver City,VentureBeat,Private,,1970-01-01 00:00:00.000002022,1970-01
+Next Insurance,150.0,17.0,2022-07-07,InsurTech,Palo Alto,CTech,Private,,1970-01-01 00:00:00.000002022,1970-01
+OwnBackup,170.0,17.0,2022-11-15,"SaaS, enterprise software","Englewood Cliffs, NJ",Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Everlane,30.0,17.0,2023-01-05,"Fashion, e-commerce",San Francisco,The Information,Private,,1970-01-01 00:00:00.000002023,1970-01
+Patreon,80.0,17.0,2022-09-13,Social media,San Francisco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Recharge,84.0,17.0,2022-10-27,Fintech,Los Angeles,Recharge CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Nextiva,4114.0,17.0,2022-12-06,Customer service,Phoenix,Channel Futures,Private,,1970-01-01 00:00:00.000002022,1970-01
+Grove Collaborative,12317.0,17.0,2022-03-29,E-commerce,San Francisco,Retail Dive,Private,,1970-01-01 00:00:00.000002022,1970-01
+Lithic,27.0,18.0,2022-12-07,Fintech,New York,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+SQream Technologies,30.0,18.0,2022-07-06,Data Analytics,New York,CTech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Emotive,30.0,18.0,2022-07-07,SMS Marketing,Los Angeles,dot.LA,Private,,1970-01-01 00:00:00.000002022,1970-01
+Amount,5150.0,18.0,2022-06-27,FinTech,Chicago,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Ro,2702.0,18.0,2022-06-23,Health Care,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Socure,104.0,19.0,2023-01-05,"cybsersecurity, predictive analytics","Incline Village, NV",Biometric Update,Private,,1970-01-01 00:00:00.000002023,1970-01
+Postscript,43.0,19.0,2022-06-26,"Marketing Tech, SMS Marketing",San Francisco,Alex Beller,Private,,1970-01-01 00:00:00.000002022,1970-01
+Qumolo,80.0,19.0,2022-06-29,Data storage,Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+OfferUp,15539.0,19.0,2022-11-15,"E-commerce, marketplace","Bellevue, WA",GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Change.org,10750.0,19.0,2022-07-28,CivicTech,San Francisco,Change.org,Private,,1970-01-01 00:00:00.000002022,1970-01
+HomeLight,9909.0,19.0,2022-06-29,"Proptech, Real Estate",San Francisco,The Real Deal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Homeward,120.0,20.0,2022-08-11,"Real Estate, PropTech",Austin,The Real Deal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Turntide,130.0,20.0,2022-07-28,"CleanTech, energy","Sunnyvale, CA",Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Flyhomes,150.0,20.0,2022-07-20,"Real Estate, PropTech",Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Curology,150.0,20.0,2022-03-16,E-commerce,San Francisco,SF Business Times,Private,,1970-01-01 00:00:00.000002022,1970-01
+MasterClass,156.0,20.0,2022-06-22,Edtech,San Francisco,MasterClass CEO David Rogier,Private,,1970-01-01 00:00:00.000002022,1970-01
+Lacework,200.0,20.0,2022-05-26,Cybersecurity,San Jose,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Equitybee,25.0,20.0,2022-10-31,Fintech,San Francisco,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Airtable,254.0,20.0,2022-12-08,"Data science, enterprise",San Francisco,Airtable,Private,,1970-01-01 00:00:00.000002022,1970-01
+Plaid,260.0,20.0,2022-12-07,Fintech,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Nate,30.0,20.0,2022-08-30,E-commerce,New York,The Information,Private,"Nate reportedly had two layoffs. In June, the company laid of 30 people, or 20% of the company at the time.",1970-01-01 00:00:00.000002022,1970-01
+Coterie Insurance,30.0,20.0,2022-05-27,InsurTech,Cincinnati,CincyInno,Private,,1970-01-01 00:00:00.000002022,1970-01
+Intrinsic,40.0,20.0,2023-01-11,"robotics, AI","Mountain View, CA",This Information,Private,,1970-01-01 00:00:00.000002023,1970-01
+Rhino,57.0,20.0,2022-02-03,"PropTech, InsurTech",New York,The Real Deal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Flexport,640.0,20.0,2023-01-11,shipping and logistics,San Francisco,CNBC,Private,,1970-01-01 00:00:00.000002023,1970-01
+Redesign Health,67.0,20.0,2022-10-10,health care,New York,Fast Company,Private,,1970-01-01 00:00:00.000002022,1970-01
+Astronomer,76.0,20.0,2023-01-04,"Data analytics, cloud services",Cincinnati,Astronomer,Private,,1970-01-01 00:00:00.000002023,1970-01
+Calm,90.0,20.0,2022-08-11,"personal health, wellness",San Francisco,Wall Street Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Shippo,10412.0,20.0,2022-11-03,Logistics,San Francisco,Shippo CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Brightline,14631.0,20.0,2022-11-01,Health care,"Palo Alto, CA",Behavioral Health Business,Private,,1970-01-01 00:00:00.000002022,1970-01
+Scale,16967.0,20.0,2023-01-09,"AI, image recognition",San Francisco,Scale,Private,,1970-01-01 00:00:00.000002023,1970-01
+OpenSea,10243.0,20.0,2022-07-14,"Crypto, NFT marketplace",New York,Devin Finzer,Private,,1970-01-01 00:00:00.000002022,1970-01
+Buzzer,3179.0,20.0,2022-06-20,"Media, Sports",New York,Sportico,Private,,1970-01-01 00:00:00.000002022,1970-01
+Greenlight,104.0,21.0,2023-01-12,"Fintech, banking",Atlanta,TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+Flipboard,24.0,21.0,2022-10-16,News,"Palo Alto, CA",Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+Advata,32.0,21.0,2022-10-28,"health care, analytics","Bellevue, WA",GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Superhuman,23.0,22.0,2022-06-03,Email Software,San Francisco,CEO Rahul Vohra,Private,,1970-01-01 00:00:00.000002022,1970-01
+Exodus,59.0,22.0,2022-11-04,"Cryptocurrency, blockchain","Nebraska City, NE",Exodus CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Tonkean,23.0,23.0,2022-06-15,Software,San Francisco,The Marker,Private,,1970-01-01 00:00:00.000002022,1970-01
+Lokalise,76.0,23.0,2022-11-16,"Saas, APIs","Dover, DE",Lokalise founders,Private,,1970-01-01 00:00:00.000002022,1970-01
+Karbon,14648.0,23.0,2022-09-12,"Productivity, task management",San Francisco,"Stuart McLeod, CEO of Karbon",Private,,1970-01-01 00:00:00.000002022,1970-01
+Loom,57.0,24.0,2022-10-20,Enterprise Communication,San Francisco,SFGate,Private,,1970-01-01 00:00:00.000002022,1970-01
+Cedar,8408.0,24.0,2022-07-07,Health Care,New York,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Hyperscience,100.0,25.0,2022-03-03,AI,New York,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Celsius,150.0,25.0,2022-07-03,Crypto,"Hoboken, New Jersey",CTech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Baton,16.0,25.0,2022-06-29,"Transporation, Logistics",San Francisco,Freight Waves,Private,,1970-01-01 00:00:00.000002022,1970-01
+Policygenius,170.0,25.0,2022-06-02,InsurTech,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+IRL,25.0,25.0,2022-06-02,Social Media,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Vise,25.0,25.0,2022-05-04,Fintech,New York,CityWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Section4,32.0,25.0,2022-05-12,Edtech,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Capitolis,37.0,25.0,2022-11-17,Fintech,New York,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+On Deck,72.0,25.0,2022-05-05,Business development,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Outschool,74.0,25.0,2022-12-10,EdTech,San Francisco,TechCrunch,Private,"Outschool laid off 31 people, or 18% of the company, back in July. In December it laid off another 43 people, which amounted to 25% of the staff at the time.",1970-01-01 00:00:00.000002022,1970-01
+OneTrust,950.0,25.0,2022-06-09,Cybersecurity,Atlanta,OneTrust,Private,,1970-01-01 00:00:00.000002022,1970-01
+OneStudyTeam,2946.0,25.0,2022-12-06,"health care, cloud infrastructure",Boston,Mobi Health News,Private,,1970-01-01 00:00:00.000002022,1970-01
+Homeward,11881.0,25.0,2022-11-16,Proptech,"Austin, TX",Homeward,Private,,1970-01-01 00:00:00.000002022,1970-01
+Medium,16762.0,25.0,2022-09-06,Publishing,San Francisco,"Lauren Newton, Head of People at Medium",Private,,1970-01-01 00:00:00.000002022,1970-01
+SafeGraph,27.0,25.0,2022-06-27,"Artificial Intelligence, Machine Learning",San Francisco,SafeGraph,Private,,1970-01-01 00:00:00.000002022,1970-01
+DataRobot,6452.0,26.0,2022-08-23,"AI, enterprise software",Boston,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+EquityZen,30.0,27.0,2022-10-31,Fintech,New York,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+Clear Capital,378.0,27.0,2022-10-14,PropTech,"Truckee, CA",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Shelf Engine,43.0,29.0,2022-07-29,"Food Tech, Software, Grocery Tech",Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Veev,100.0,30.0,2022-11-11,PropTech,San Mateo,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Pacaso,100.0,30.0,2022-10-11,PropTech,San Francisco,Inman,Private,,1970-01-01 00:00:00.000002022,1970-01
+Snappy,100.0,30.0,2023-01-13,"social impact, company benefits",New York,Calcalistech,Private,,1970-01-01 00:00:00.000002023,1970-01
+Kraken,1100.0,30.0,2022-11-30,Cryptocurrency,San Francisco,Kraken,Private,,1970-01-01 00:00:00.000002022,1970-01
+AtoB,32.0,30.0,2022-10-19,FinTech,San Francisco,SFGate,Private,,1970-01-01 00:00:00.000002022,1970-01
+Genesis,60.0,30.0,2023-01-05,"Cryptocurrency, blockchain",New York,CNBC,Private,,1970-01-01 00:00:00.000002023,1970-01
+Almanac,8807.0,30.0,2022-08-13,"Collaboration, productivity",San Francisco,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+SuperRare,15000.0,30.0,2023-01-06,"Blockchain, cryptocurrency","Newark, DE",TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+Homie,162.0,32.0,2022-10-04,PropTech,"South Jordan, Utah","TechCrunch, Crunchbase News reporting",Private,,1970-01-01 00:00:00.000002022,1970-01
+Socure,173.0,32.0,2023-01-05,Identity verification,Reno,Biometric Update,Private,,1970-01-01 00:00:00.000002023,1970-01
+Bolt,250.0,33.0,2022-05-25,FinTech,San Francisco,Fortune,Private,,1970-01-01 00:00:00.000002022,1970-01
+Candy Digital,33.0,33.0,2022-11-28,Cryptocurrency,New York,Decrypt,Private,,1970-01-01 00:00:00.000002022,1970-01
+Ideoclick,40.0,33.0,2022-05-04,E-commerce,Seattle,Puget Sound Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Brave Care,40.0,33.0,2022-09-06,"Pediatrics, telehealth",Portland,The Oregonian,Private,,1970-01-01 00:00:00.000002022,1970-01
+Tomo,44.0,33.0,2022-05-31,"FinTech, PropTech",Stamford,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+MainStreet,50.0,33.0,2022-05-04,Fintech,San Jose,Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Replicated,50.0,33.0,2022-05-31,Enterprise Software,Los Angeles,Replicated,Private,,1970-01-01 00:00:00.000002022,1970-01
+Hologram,80.0,33.0,2022-06-09,IoT,Chicago,Crain's Chicago Business,Private,,1970-01-01 00:00:00.000002022,1970-01
+Esper,8768.0,33.0,2023-01-10,DevOps,Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002023,1970-01
+TruePill,10574.0,33.0,2022-09-30,"pharmaceutical, health care","Hayward, CA",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Happy Money,158.0,34.0,2022-11-30,"Fintech, payments",Los Angeles,LinkedIn reports,Private,,1970-01-01 00:00:00.000002022,1970-01
+Tonal,262.0,35.0,2022-07-13,Fitness,San Francisco,CNBC,Private,,1970-01-01 00:00:00.000002022,1970-01
+Hydrow,70.0,35.0,2022-07-21,Fitness,Boston,Boston Globe,Private,,1970-01-01 00:00:00.000002022,1970-01
+Callisto Media,5477.0,35.0,2022-10-25,Analytics,"Emeryville, California",Publishers Weekly,Private,,1970-01-01 00:00:00.000002022,1970-01
+Lunchbox,3100.0,37.0,2023-01-10,"Restaurant Tech, Food Tech",New York,Business Insider,Private,,1970-01-01 00:00:00.000002023,1970-01
+Fabric,120.0,40.0,2022-07-13,"E-commerce, Logistics",New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Rasa,59.0,40.0,2022-04-04,Artificial Intelligence,San Francisco,Business Insider,Private,"Rasa was founded in Berlin but moved its headquarters to San Francisco in 2019. Layoffs affected employees in the U.S., Germany, and U.K. Layoffs affected around 40% of employees.",1970-01-01 00:00:00.000002022,1970-01
+NCX,13406.0,40.0,2022-11-28,"Renewable energy, forestry",San Francisco,NCX,Private,,1970-01-01 00:00:00.000002022,1970-01
+Fundbox,150.0,42.0,2022-10-25,Fintech,San Francisco,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Zeus Living,64.0,46.0,2022-10-20,"Home decor, PropTech",San Francisco,San Francisco Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Knock,17490.0,46.0,2022-03-15,Proptech,New York,The Real Deal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Ocavu,20.0,48.0,2022-11-10,Cryptocurrency,"Lehi, UT",Salt Lake Tribune,Private,,1970-01-01 00:00:00.000002022,1970-01
+Better.com,5000.0,50.0,2022-04-19,Fintech,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Virgin Hyperloop,111.0,50.0,2022-02-22,Transporation,Los Angeles,Fortune,Private,,1970-01-01 00:00:00.000002022,1970-01
+Notarize,170.0,50.0,2022-10-31,Legal Tech,Boston,Boston Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Iron Ox,50.0,50.0,2022-11-02,"AgTech, food and beverage",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+BloomTech,88.0,50.0,2022-12-01,Edtech,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Medly Pharmacy,15195.0,50.0,2022-09-07,"Pharmacy, health care",New York,Crain's New York,Private,,1970-01-01 00:00:00.000002022,1970-01
+Bizzabo,220.0,60.0,2022-12-01,Virtual Event,New York,Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Parler,60.0,75.0,2023-01-10,Social media,"Nashville, TN",The Verge,Private,,1970-01-01 00:00:00.000002023,1970-01
+Mojo Vision,14462.0,75.0,2023-01-06,"AR, health care","Saratoga, CA",TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+Uniphore,76.0,76.0,2023-01-03,"Artificial intelligence, machine learning","Palo Alto, CA",Outlook Start-Up,Private,,1970-01-01 00:00:00.000002023,1970-01
+Butler Hospitality,1000.0,100.0,2022-07-08,Hospitality,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+SummerBio,101.0,100.0,2022-06-20,"Health Care, Diagnostics",Menlo Park,Bay Area Inno,Private,,1970-01-01 00:00:00.000002022,1970-01
+Reali,140.0,100.0,2022-08-24,PropTech,"San Mateo, CA",Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+Fast,400.0,100.0,2022-04-05,Fintech,San Francisco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Protocol Media,60.0,100.0,2022-11-15,"News, media",San Francisco,CNN,Private,,1970-01-01 00:00:00.000002022,1970-01
+WanderJaunt,85.0,100.0,2022-07-01,"PropTech, Real Estate",San Francisco,Short Term Rentalz,Private,,1970-01-01 00:00:00.000002022,1970-01
+Wyre,14618.0,100.0,2023-01-04,"Cryptocurrency, blockchain",San Francisco,Blockworks,Private,,1970-01-01 00:00:00.000002023,1970-01
+Lantern,157.0,100.0,2023-01-06,"E-commerce, consumer lending","Grand Rapids, MI",Lantern CEO Meredith Mahoney,Private,,1970-01-01 00:00:00.000002023,1970-01
+Lora DiCarlo Inc.,10601.0,100.0,2022-12-02,"Wellness, consumer goods","Bend, OR",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Bitfront,777.0,100.0,2022-11-29,Cryptocurrency,"Palo Alto, CA",Reuters,Private,,1970-01-01 00:00:00.000002022,1970-01
+Assure,5335.0,100.0,2022-11-23,Fintech,Salt Lake City,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+GloriFi,11927.0,100.0,2022-11-21,Fintech,Dallas,WSJ,Private,,1970-01-01 00:00:00.000002022,1970-01
+Kite,1886.0,100.0,2022-11-16,"AI, coding",San Francisco,Kite,Private,,1970-01-01 00:00:00.000002022,1970-01
+Wavely,7054.0,100.0,2022-11-10,"hiring, HR","Palo Alto, CA",Wavely,Private,,1970-01-01 00:00:00.000002022,1970-01
+Fifth Season,13198.0,100.0,2022-10-28,Vertical farming,Pittsburgh,Pittsburgh Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Argo AI,6477.0,100.0,2022-10-26,Transportation,Pittsburgh,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+CommonBond,16458.0,100.0,2022-09-09,"FinTech, loan repayments",New York,"David Klein, CEO of CommonBond",Private,,1970-01-01 00:00:00.000002022,1970-01
+The Wing,15087.0,100.0,2022-08-31,Coworking,New York,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Edmodo,17263.0,100.0,2022-08-16,Edtech,"San Mateo, CA",EdSurge,Private,,1970-01-01 00:00:00.000002022,1970-01
+Haus,3178.0,100.0,2022-08-08,food and beverage,"Healdsburg, CA",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+BlockFi,14000.0,100.0,2022-11-28,Crypto,Jersey City,Decrypt,Private,,1970-01-01 00:00:00.000002022,1970-01
+Pesto,14550.0,100.0,2022-09-23,"IT, future of work",San Francisco,Pesto announcement,Private,,1970-01-01 00:00:00.000002022,1970-01
+Kitty Hawk,17623.0,100.0,2022-09-21,aerospace,Mountain View,CNBC,Private,,1970-01-01 00:00:00.000002022,1970-01
+Subspace,13799.0,100.0,2022-05-13,Media/entertainment,Los Angeles,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Halcyon Health,2896.0,100.0,2022-04-15,Health Care,New York,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+Ahead,14831.0,100.0,2022-04-14,Health Care,"Santa Clara, CA",Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+100 Thieves,12.0,93.0,2023-01-10,"eSports, Media",Los Angeles,Dexerto,Private,"More than a dozen employees were reportedly laid off in July. In January, the company laid off more employees.",1970-01-01 00:00:00.000002023,1970-01
+Orbit,14.0,51.0,2022-08-12,Productivity software,San Francisco,Orbit CEO Patrick Woods,Private,Orbit CEO Patrick Woods announced at least 14 people have been laid off,1970-01-01 00:00:00.000002022,1970-01
+Cybereason,100.0,16.0,2022-06-01,Cybersecurity,Boston,CTech,Private,"Affected employees are in U.S., Israel, and Europe.",1970-01-01 00:00:00.000002022,1970-01
+Progrexion,100.0,67.0,2022-06-07,FinTech,Salt Lake City,Crunchbase News,Private,,1970-01-01 00:00:00.000002022,1970-01
+Gem,100.0,42.0,2022-11-02,Recruiting,San Francisco,Gem CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Glossier,104.0,60.0,2022-08-02,Beauty,New York,Modern Retail,Private,,1970-01-01 00:00:00.000002022,1970-01
+Stripe,1050.0,9.0,2022-11-03,Fintech,San Francisco,Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+Curative,109.0,24.0,2022-09-20,health diagnostics,Los Angeles,Digital Health,Private,,1970-01-01 00:00:00.000002022,1970-01
+Noom,1095.0,54.0,2022-10-11,Fitness/Digital Health,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Homepoint,113.0,35.0,2022-11-17,Proptech,"Greenville, SC",Phoenix Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Arc,13.0,48.0,2022-07-20,HR Tech,Mountain View,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+ChowNow,140.0,59.0,2022-12-14,"Restaurant Tech, Food Tech","Playa Visa, California",Restaurant Business Online,Private,,1970-01-01 00:00:00.000002022,1970-01
+Healthcare.com,149.0,51.0,2022-08-03,Insurtech,"Miami, FL",Miami Inno,Private,,1970-01-01 00:00:00.000002022,1970-01
+Finite State,16.0,4.0,2022-06-17,Cybersecurity,Columbus,ColumbusInno,Private,,1970-01-01 00:00:00.000002022,1970-01
+Rad Power Bikes,163.0,28.0,2022-07-21,Transporation,Seattle,GeekWire,Private,"First round of layoffs was in April, second round in July.",1970-01-01 00:00:00.000002022,1970-01
+Cameo,167.0,38.0,2022-05-04,Media/entertainment,Chicago,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+Weedmaps,175.0,90.0,2022-12-06,"Marijuana, marketing","Irvine, CA",Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Orchard,180.0,7.0,2022-11-17,Proptech,New York,Inman,Private,,1970-01-01 00:00:00.000002022,1970-01
+Clyde,19.0,17.0,2022-04-25,E-commerce,New York,External Spreadsheet,Private,,1970-01-01 00:00:00.000002022,1970-01
+AvantStay,224.0,88.0,2022-11-09,Travel,Los Angeles,Skift,Private,,1970-01-01 00:00:00.000002022,1970-01
+Booking.com,226.0,94.0,2022-11-01,"Travel, hotels","Grand Rapids, MI",Crain's Detroit Business,Private,,1970-01-01 00:00:00.000002022,1970-01
+Aspire,23.0,38.0,2022-07-15,Marketing tech,San Francisco,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Gopuff,2300.0,84.0,2022-10-21,E-commerce,Philadelphia,"Bloomberg, The Information",Private,"First round of layoffs was in January, second round was in March, third round was in July, and the fourth round was in October.",1970-01-01 00:00:00.000002022,1970-01
+Eaze,25.0,31.0,2022-06-02,Cannabis,San Francisco,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Nuro,310.0,87.0,2022-11-18,Transportation,Mountain View,The Robot Report,Private,,1970-01-01 00:00:00.000002022,1970-01
+Citizen,33.0,61.0,2023-01-11,Surveillance,New York,TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+Balto,35.0,40.0,2022-12-12,"Artificial intelligence, machine learning",St. Louis,St. Louis Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Hopin,370.0,58.0,2022-07-11,Virtual Event,London,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Vial,40.0,19.0,2023-01-13,"health care, clinical trials",San Francisco,Business Insider,Private,,1970-01-01 00:00:00.000002023,1970-01
+Wistia,40.0,20.0,2022-11-10,"Video production, marketing","Cambridge, MA",Wistia CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+FreshDirect,40.0,56.0,2022-08-25,"Food delivery, ecommerce","The Bronx, NY",Philadelphia Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Adwerx,40.0,43.0,2022-07-12,Digital Marketing,"Durham, North Carolina",Inman,Private,,1970-01-01 00:00:00.000002022,1970-01
+Community,40.0,66.0,2022-06-22,Social Media,Los Angeles,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Esme Learning,40.0,98.0,2022-06-02,EdTech,"Newton, Massachusetts","Esme Learning, Crunchbase News reporting",Private,,1970-01-01 00:00:00.000002022,1970-01
+Luxury Presence,44.0,28.0,2023-01-17,"proptech, advertising","Santa Monica, CA",Inman,Private,,1970-01-01 00:00:00.000002023,1970-01
+Hubilo,45.0,26.0,2022-07-12,Virtual Events,San Francisco,Inc42,Private,,1970-01-01 00:00:00.000002022,1970-01
+Olive,450.0,79.0,2022-07-19,Health Care,Columbus,Olive,Private,,1970-01-01 00:00:00.000002022,1970-01
+Imperfect Foods,50.0,20.0,2022-08-01,"Grocery, e-commerce, delivery service",San Francisco,San Francisco Business Times,Private,,1970-01-01 00:00:00.000002022,1970-01
+Tempo Automation,54.0,79.0,2022-08-17,automotive,San Francisco,San Francisco Business Times,Private,,1970-01-01 00:00:00.000002022,1970-01
+Chili Piper,58.0,85.0,2022-11-17,"enterprise software, productivity",New York,Chili Piper,Private,,1970-01-01 00:00:00.000002022,1970-01
+On Deck,73.0,79.0,2022-08-04,"Networking, business development",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Varo,75.0,28.0,2022-07-20,Fintech,San Francisco,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+Nylas,80.0,60.0,2022-08-02,"Software, Emails, API",San Francisco,Nylas,Private,,1970-01-01 00:00:00.000002022,1970-01
+Career Karma,82.0,17.0,2023-01-12,"Career planning, social network",San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002023,1970-01
+Rev.com,85.0,73.0,2022-10-07,"Speech recognition, artificial intelligence",San Francisco,Austin American-Statesman,Private,,1970-01-01 00:00:00.000002022,1970-01
+The Zebra,90.0,9.0,2022-11-15,"Insurance, fintech","Austin, TX",Coverager,Private,,1970-01-01 00:00:00.000002022,1970-01
+Colossus,97.0,20.0,2022-05-20,"Solar, Software",Massachusetts,Axios,Private,,1970-01-01 00:00:00.000002022,1970-01
+OnlyFans,1657.0,69.0,2022-08-01,"Social media, creator economy",London,Business Insider,Private,OnlyFans is based in the UK but has a sizeable workforce in the US,1970-01-01 00:00:00.000002022,1970-01
+Talkdesk,495.0,8.0,2022-05-19,Customer service,San Francisco,Confirmed by CB News from source,Private,Sources say hundreds of employees have been laid off,1970-01-01 00:00:00.000002022,1970-01
+StubHub,14879.0,69.0,2022-08-04,"E-commerce, ticketing",San Francisco,StubHub on LinkedIn,Private,StubHub announced they would be letting go of the majority of their employees on a LinkedIn post,1970-01-01 00:00:00.000002022,1970-01
+Cerebral,5095.0,67.0,2022-10-24,Health Care,San Francisco,Wall Street Journal,Private,The company previously laid off employees in May.,1970-01-01 00:00:00.000002022,1970-01
+Elemy,9137.0,17.0,2022-12-05,Health Care,San Francisco,Behavioral Health Business,Private,The company previously laid off workers in July.,1970-01-01 00:00:00.000002022,1970-01
+TikTok,1327.0,63.0,2022-07-18,Social Media,Los Angeles,Wired,Private,"TikTok is owned by China-based ByteDance, but the layoffs affected staff in the U.S.",1970-01-01 00:00:00.000002022,1970-01
+RateGenius,12010.0,9.0,2023-01-17,"consumer lending, fintech","Austin, TX",AustinInno,Private,,1970-01-01 00:00:00.000002023,1970-01
+GoCanvas,1479.0,22.0,2023-01-13,"productivity, enterprise software","Reston, VA",GoCanvas CEO Viyas Sundaram,Private,,1970-01-01 00:00:00.000002023,1970-01
+CoSchedule,3185.0,52.0,2023-01-13,"productivity, marketing","Bismarck, ND",Inforum,Private,,1970-01-01 00:00:00.000002023,1970-01
+Oyster,8174.0,1.0,2023-01-11,"human resources, SaaS","Charlotte, NC",Oyster,Private,,1970-01-01 00:00:00.000002023,1970-01
+Embark,1900.0,61.0,2023-01-11,"Pet tech, health care",Boston,Embark CEP Ryan Boyko,Private,,1970-01-01 00:00:00.000002023,1970-01
+Cart.com,1803.0,58.0,2023-01-10,"E-commerce, DTC","Austin, TX",AustinInno,Private,,1970-01-01 00:00:00.000002023,1970-01
+CreateMe Technologies,9928.0,83.0,2023-01-06,"Product design, apparel","New City, NY",San Francisco Business Times,Private,,1970-01-01 00:00:00.000002023,1970-01
+CareerArc,2155.0,98.0,2023-01-06,"Human resources, recruiting",Los Angeles,CareerArc,Private,,1970-01-01 00:00:00.000002023,1970-01
+Autograph,17063.0,31.0,2022-12-16,"cryptocurrency, blockchain","Santa Monica, CA",Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Convene,16444.0,87.0,2022-12-10,"Proptech, hospitality",New York,Convene CEO Ryan Simonetti,Private,,1970-01-01 00:00:00.000002022,1970-01
+Autobooks,9030.0,98.0,2022-12-10,"Fintech, payments",Detroit,Crain's Detroit Business,Private,,1970-01-01 00:00:00.000002022,1970-01
+Zywave,11145.0,34.0,2022-12-07,"Insurtech, cloud computing",Milwaukee,Milwaukee Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+CircleCI,3063.0,55.0,2022-12-07,"automation, IT",San Francisco,CircleCI,Private,,1970-01-01 00:00:00.000002022,1970-01
+Route,13847.0,14.0,2022-12-05,"Retail, e-commerce","Lehi, UT",Salt Lake Tribune,Private,,1970-01-01 00:00:00.000002022,1970-01
+Inspectify,14226.0,82.0,2022-11-28,Proptech,Seattle,Puget Sound Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Storyblocks,3583.0,70.0,2022-11-18,"Media, video editing","Washington, DC",Storyblocks CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Metaplex,9843.0,99.0,2022-11-18,Cryptocurrency,Chicago,AMBCrypto,Private,,1970-01-01 00:00:00.000002022,1970-01
+Kandji,132.0,65.0,2022-11-17,"IT, software",San Diego,LinkedIn reports,Private,,1970-01-01 00:00:00.000002022,1970-01
+Reforge,2334.0,86.0,2022-11-10,HR Tech,San Francisco,Reforge CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+Amobee,14591.0,77.0,2022-11-09,"Adtech, digital marketing","Redwood City, CA",Amobee,Private,,1970-01-01 00:00:00.000002022,1970-01
+Domino Data Lab,12877.0,65.0,2022-11-07,"AI, big data",San Francisco,LinkedIn reports,Private,,1970-01-01 00:00:00.000002022,1970-01
+Spreetail,14540.0,73.0,2022-10-27,"retail, e-commerce","Lincoln, NE",Spreetail CEO,Private,,1970-01-01 00:00:00.000002022,1970-01
+TigerGraph,6227.0,97.0,2022-10-25,Analytics,"Redwood City, CA",Sources within the company,Private,,1970-01-01 00:00:00.000002022,1970-01
+Clever Real Estate,8203.0,92.0,2022-10-19,PropTech,St. Louis,St. Louis Business Journal,Private,,1970-01-01 00:00:00.000002022,1970-01
+Noodle,13022.0,64.0,2022-10-18,EdTech,New York,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Built In,8200.0,81.0,2022-10-05,Networking,Chicago,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Instacart,3735.0,22.0,2022-09-24,"delivery, e-commerce",San Francisco,The Information,Private,,1970-01-01 00:00:00.000002022,1970-01
+DayTwo,8186.0,94.0,2022-09-15,"Health care, nutrition","Walnut Creek, CA",Calcalistech,Private,,1970-01-01 00:00:00.000002022,1970-01
+WorkRamp,11146.0,42.0,2022-09-15,"Saas, enterprise software","San Carlos, CA",LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Sundae,8494.0,27.0,2022-09-13,PropTech,San Francisco,Confirmed by CB News from sources,Private,,1970-01-01 00:00:00.000002022,1970-01
+Sama,10118.0,54.0,2022-09-12,"AI, enterprise software",San Francisco,Sama,Private,,1970-01-01 00:00:00.000002022,1970-01
+DreamBox Learning,12521.0,45.0,2022-09-09,EdTech,Seattle,Geekwire,Private,,1970-01-01 00:00:00.000002022,1970-01
+FullStory,8726.0,48.0,2022-09-08,"SaaS, data",Atlanta,"Scott Voigt, CEO of FullStory",Private,,1970-01-01 00:00:00.000002022,1970-01
+realtor.com,9665.0,78.0,2022-09-08,Proptech,"Santa Clara, CA",SFGate,Private,,1970-01-01 00:00:00.000002022,1970-01
+Fungible,14236.0,50.0,2022-08-29,cryptocurrency,"Santa Clara, CA",Blocks & Files,Private,,1970-01-01 00:00:00.000002022,1970-01
+Pix,6952.0,91.0,2022-08-24,Foodtech,"Napa, CA",San Francisco Chronicle,Private,,1970-01-01 00:00:00.000002022,1970-01
+People.ai,16167.0,11.0,2022-07-26,"AI, Sales",San Francisco,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Capsule,6846.0,12.0,2022-07-21,Health Care,New York,Crain's New York,Private,,1970-01-01 00:00:00.000002022,1970-01
+InVision,17086.0,64.0,2022-07-21,"Visual collaboration, Apps",New York,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Alto Pharmacy,12335.0,68.0,2022-07-14,Health Care,San Francisco,LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Spring,16357.0,2.0,2022-07-13,E-commerce,San Francisco,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Nextbite,7431.0,35.0,2022-07-08,"Restaurant Tech, Food Tech",Denver,Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+LetsGetChecked,10697.0,57.0,2022-07-02,Health Care,New York,Business Post,Private,,1970-01-01 00:00:00.000002022,1970-01
+Teleport,10839.0,13.0,2022-07-01,Cloud Infrastructure,Oakland,Teleport,Private,,1970-01-01 00:00:00.000002022,1970-01
+Modsy,13783.0,90.0,2022-06-29,E-commerce,San Francisco,TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+Degreed,13894.0,65.0,2022-06-29,EdTech,"Pleasanton, CA",LinkedIn,Private,,1970-01-01 00:00:00.000002022,1970-01
+Keepe,6474.0,38.0,2022-06-10,PropTech,Seattle,GeekWire,Private,,1970-01-01 00:00:00.000002022,1970-01
+Liongard,15909.0,16.0,2022-06-10,IT Infrastructure,Houston,CRN,Private,,1970-01-01 00:00:00.000002022,1970-01
+Deep Instinct,15281.0,26.0,2022-06-08,Cybersecurity,New York,Crunchbase News,Private,,1970-01-01 00:00:00.000002022,1970-01
+ID.Me,10154.0,29.0,2022-06-07,Identity verification,"McLean, Virginia",Business Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Clubhouse,98.0,32.0,2022-06-03,"Social Media, Audio",San Francisco,Bloomberg,Private,,1970-01-01 00:00:00.000002022,1970-01
+Zwift,9426.0,52.0,2022-05-12,Fitness,Long Beach,DC Rainmaker,Private,,1970-01-01 00:00:00.000002022,1970-01
+Tripwire,5979.0,61.0,2022-05-12,Security,Portland,OregonLive,Private,,1970-01-01 00:00:00.000002022,1970-01
+Mural,8720.0,65.0,2022-05-06,Product Design,San Francisco,Protocol,Private,,1970-01-01 00:00:00.000002022,1970-01
+Thrasio,13397.0,77.0,2022-05-02,E-commerce,"Walpole, MA",Insider,Private,,1970-01-01 00:00:00.000002022,1970-01
+Workrise,15366.0,27.0,2022-04-05,Marketplace,"Austin, TX",TechCrunch,Private,,1970-01-01 00:00:00.000002022,1970-01
+F5,100.0,1.0,2022-10-21,"SaaS, enterprise software",Seattle,GeekWire,Public,,1970-01-01 00:00:00.000002022,1970-01
+Affirm,664.0,1.0,2022-11-03,"Fintech, loans",San Francisco,The Information,Public,,1970-01-01 00:00:00.000002022,1970-01
+Freshworks,90.0,2.0,2022-12-15,"CRM, IT","San Mateo, CA",Inc42,Public,,1970-01-01 00:00:00.000002022,1970-01
+Coursera,32.0,3.0,2022-11-09,Edtech,"Mountain View, CA",Coursera CEO,Public,,1970-01-01 00:00:00.000002022,1970-01
+Outbrain,38.0,3.0,2022-07-26,Digital Marketing,New York,CTech,Public,,1970-01-01 00:00:00.000002022,1970-01
+WalkMe,43.0,3.0,2023-01-08,"edtech, product management",San Francisco,Calcalistech,Public,,1970-01-01 00:00:00.000002023,1970-01
+Amdocs,700.0,3.0,2023-01-02,"CRM, enterprise software","Chesterfield, MO",Calcalistech,Public,,1970-01-01 00:00:00.000002023,1970-01
+Nutanix,270.0,4.0,2022-08-10,"data center, enterprise software",San Jose,SFGate,Public,,1970-01-01 00:00:00.000002022,1970-01
+Varonis Systems,110.0,5.0,2022-11-06,Cybersecurity,New York,Calcalistech,Public,"Half of its layoffs happened at its R&D center in Israel, per reports. Layoffs affected 5% of employees.",1970-01-01 00:00:00.000002022,1970-01
+Amazon,18000.0,5.0,2023-01-05,"E-commerce, SaaS",Seattle,Wall Street Journal,Public,,1970-01-01 00:00:00.000002023,1970-01
+Zillow,300.0,5.0,2022-10-26,PropTech,Seattle,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Zendesk,350.0,5.0,2022-11-07,"Enterprise software, customer service",San Francisco,SFGate,Public,,1970-01-01 00:00:00.000002022,1970-01
+Cisco,4100.0,5.0,2022-11-16,"enterprise software, SaaS","San Jose, CA",Silicon Valley Business Journal,Public,,1970-01-01 00:00:00.000002022,1970-01
+TechTarget,60.0,5.0,2022-12-08,Marketing,"Newton, MA",MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+BlackLine,95.0,5.0,2022-12-08,Enterprise Software,Los Angeles,Seeking Alpha,Public,,1970-01-01 00:00:00.000002022,1970-01
+Sweetgreen,7353.0,5.0,2022-08-09,"food and beverage, restaurants","Washington, DC",CNBC,Public,,1970-01-01 00:00:00.000002022,1970-01
+Taboola,100.0,6.0,2022-09-13,Content marketing,New York,Calcalistech,Public,,1970-01-01 00:00:00.000002022,1970-01
+Spotify,588.0,6.0,2023-01-24,Music,"Stockholm, Sweden",TechCrunch,Public,,1970-01-01 00:00:00.000002023,1970-01
+DoorDash,1250.0,6.0,2022-11-30,"Food delivery, ecommerce",San Francisco,Reuters,Public,,1970-01-01 00:00:00.000002022,1970-01
+Latch,30.0,6.0,2022-05-13,"Smart Home, Security",New York,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Teladoc Health,300.0,6.0,2023-01-18,"health care, telehealth","Purchase, NY",Digital Health,Public,,1970-01-01 00:00:00.000002023,1970-01
+Definitive Healthcare,55.0,6.0,2023-01-12,"Health care, analytics","Framingham, MA",CMLVIZ,Public,,1970-01-01 00:00:00.000002023,1970-01
+Rivian,840.0,6.0,2022-07-28,"electric vehicle, transportation","Irvine, CA",CNN,Public,,1970-01-01 00:00:00.000002022,1970-01
+Vimeo,15784.0,6.0,2023-01-04,Media/entertainment,New York,Vimeo,Public,,1970-01-01 00:00:00.000002023,1970-01
+nCino,100.0,7.0,2023-01-18,"Fintech, software","Wilmington, NC",Port City Daily,Public,,1970-01-01 00:00:00.000002023,1970-01
+8x8,155.0,7.0,2023-01-18,"telecommunications, enterprise software","San Jose, CA",Channel Futures,Public,,1970-01-01 00:00:00.000002023,1970-01
+Roku,200.0,7.0,2022-11-17,"media, streaming","Los Gatos, CA",Variety,Public,,1970-01-01 00:00:00.000002022,1970-01
+Informatica,450.0,7.0,2023-01-10,"Big data, cloud computing","Redwood City, CA",Channel Futures,Public,,1970-01-01 00:00:00.000002023,1970-01
+BigBear.ai,2503.0,7.0,2022-09-08,"data analytics, national defense","Columbia, MD",Baltimore Business Journal,Public,,1970-01-01 00:00:00.000002022,1970-01
+Unity,509.0,8.0,2023-01-17,Video Games,San Francisco,WSJ,Public,,1970-01-01 00:00:00.000002023,1970-01
+Asana,180.0,9.0,2022-11-15,"collaboration, enterprise software",San Francisco,Asana COO,Public,,1970-01-01 00:00:00.000002022,1970-01
+Pear Therapeutics,25.0,9.0,2022-07-25,"Software, Biotech",Boston,MassDevice,Public,,1970-01-01 00:00:00.000002022,1970-01
+DocuSign,16968.0,9.0,2022-09-28,e-signature,San Francisco,CNBC,Public,,1970-01-01 00:00:00.000002022,1970-01
+ForeScout Technologies,100.0,10.0,2023-01-10,"cybersecurity, cloud services","San Jose, CA",Calcalistech,Public,,1970-01-01 00:00:00.000002023,1970-01
+Shopify,1000.0,10.0,2022-07-26,E-commerce,"Ottawa, Canada",WSJ,Public,,1970-01-01 00:00:00.000002022,1970-01
+Similarweb,120.0,10.0,2022-11-16,"AI, analytics",New York,Globes,Public,,1970-01-01 00:00:00.000002022,1970-01
+iRobot,140.0,10.0,2022-08-05,"artificial intelligence, robotics","Bedford, MA",Geekwire,Public,,1970-01-01 00:00:00.000002022,1970-01
+Blend,200.0,10.0,2022-04-19,Fintech,San Francisco,HousingWire,Public,,1970-01-01 00:00:00.000002022,1970-01
+Skillz,70.0,10.0,2022-05-20,Esports/Video Games,San Francisco,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Beachbody,70.0,10.0,2022-01-27,Fitness,"Santa Monica, CA",Club Industry,Public,,1970-01-01 00:00:00.000002022,1970-01
+Zulily,99.0,10.0,2022-05-16,E-commerce,Seattle,GeekWire,Public,,1970-01-01 00:00:00.000002022,1970-01
+Compass,14027.0,10.0,2023-01-05,PropTech,New York,Bloomberg,Public,,1970-01-01 00:00:00.000002023,1970-01
+SoundHound,11871.0,10.0,2023-01-05,Conversational AI,"Santa Clara, CA",SoundHound,Public,,1970-01-01 00:00:00.000002023,1970-01
+Blue Apron,13736.0,10.0,2022-12-08,"Grocery, e-commerce, delivery service",New York,Blue Apron,Public,,1970-01-01 00:00:00.000002022,1970-01
+Core Scientific,16890.0,10.0,2022-08-12,"Blockchain, cryptocurrency",Austin,Blockworks,Public,,1970-01-01 00:00:00.000002022,1970-01
+Kaltura,75.0,11.0,2023-01-04,"Developer APIs, enterprise software",New York,Globes,Public,,1970-01-01 00:00:00.000002023,1970-01
+Twilio,800.0,11.0,2022-09-14,Enterprise Software,San Francisco,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Zuora,6729.0,11.0,2022-12-06,Cloud Infrastructure,"San Mateo, CA",MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+BuzzFeed,180.0,12.0,2022-12-06,"Media, news",New York,Variety,Public,,1970-01-01 00:00:00.000002022,1970-01
+AppLovin,300.0,12.0,2022-06-29,"Mobile Apps, Developer Tools",Palo Alto,Silicon Valley Business Journal,Public,,1970-01-01 00:00:00.000002022,1970-01
+DesktopMetal,11492.0,12.0,2022-06-13,3D Printing,"Burlington, Massachusetts",MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Meta,11000.0,13.0,2022-11-09,Social media,"Menlo Park, CA",CNBC,Public,,1970-01-01 00:00:00.000002022,1970-01
+Integral Ad Science,120.0,13.0,2022-12-07,"Data science, enterprise",New York,Integral Ad Science,Public,,1970-01-01 00:00:00.000002022,1970-01
+BigCommerce,4739.0,13.0,2022-12-15,"Enterprise software, e-commerce","Austin, TX",MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Elastic,15818.0,13.0,2022-11-30,"analytics, SaaS",San Francisco,Elastic,Public,,1970-01-01 00:00:00.000002022,1970-01
+Lending Club,225.0,14.0,2023-01-12,"Fintech, banking",San Francisco,Bloomberg,Public,,1970-01-01 00:00:00.000002023,1970-01
+Edgio,95.0,14.0,2022-12-13,"Cloud computing, web hosting","Tempe, AZ",Edgio,Public,,1970-01-01 00:00:00.000002022,1970-01
+Life360,8905.0,14.0,2023-01-12,mobile apps,San Francisco,Life360 statement,Public,,1970-01-01 00:00:00.000002023,1970-01
+Groupon,500.0,15.0,2022-08-08,"ecommerce, retail",Chicago,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Lyft,760.0,15.0,2022-11-03,Transportation,San Francisco,WSJ,Public,,1970-01-01 00:00:00.000002022,1970-01
+Baakt,8860.0,15.0,2022-12-08,Cryptocurrency,"Alpharetta, GA",Baakt,Public,,1970-01-01 00:00:00.000002022,1970-01
+ThredUp,13812.0,15.0,2022-08-15,"E-commerce, fashion","Oakland, CA",Retail Dive,Public,,1970-01-01 00:00:00.000002022,1970-01
+Limeade,3337.0,15.0,2023-01-11,"Employee Benefits, HR Tech","Bellevue, WA",GeekWire,Public,,1970-01-01 00:00:00.000002023,1970-01
+GoodRx,140.0,16.0,2022-08-31,"Health care, pharmaceuticals",Los Angeles,Seeking Alpha,Public,,1970-01-01 00:00:00.000002022,1970-01
+Astra,5411.0,16.0,2022-11-08,"aerospace, space","Alameda, CA",Astra CEO,Public,,1970-01-01 00:00:00.000002022,1970-01
+Enjoy,400.0,18.0,2022-06-30,"E-commerce, Delivery",Palo Alto,Bloomberg,Public,,1970-01-01 00:00:00.000002022,1970-01
+Opendoor,550.0,18.0,2022-11-02,Proptech,San Francisco,Opendoor CEO,Public,,1970-01-01 00:00:00.000002022,1970-01
+Redfin,1332.0,19.0,2022-11-09,PropTech,Seattle,Bloomberg,Public,,1970-01-01 00:00:00.000002022,1970-01
+Snap,1280.0,20.0,2022-08-31,Social media,"Venice, CA",The Verge,Public,,1970-01-01 00:00:00.000002022,1970-01
+Pluralsight,400.0,20.0,2022-12-12,"EdTech, IT","Draper, UT",Pluralsight,Public,,1970-01-01 00:00:00.000002022,1970-01
+Metromile,60.0,20.0,2022-07-29,"Insurtech, transportation",San Francisco,Crunchbase,Public,,1970-01-01 00:00:00.000002022,1970-01
+GoHealth,800.0,20.0,2022-08-11,"health care, health insurance",Chicago,Chicago Sun Times,Public,,1970-01-01 00:00:00.000002022,1970-01
+Sezzle,9724.0,20.0,2022-03-10,Fintech,Minneapolis,Reuters,Public,,1970-01-01 00:00:00.000002022,1970-01
+Pagaya,15368.0,20.0,2023-01-18,"Fintech, AI",New York,Reuters,Public,,1970-01-01 00:00:00.000002023,1970-01
+2U,5901.0,20.0,2022-08-01,Edtech,"Hyattsville, MD",Inside Higher Ed,Public,,1970-01-01 00:00:00.000002022,1970-01
+Leafly,56.0,21.0,2022-10-18,Cannabis,Seattle,Leafly,Public,,1970-01-01 00:00:00.000002022,1970-01
+Sonder,16250.0,21.0,2022-06-10,Hospitality,San Francisco,MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Bird,138.0,23.0,2022-06-07,Transporation,Santa Monica,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Rent the Runway,2895.0,24.0,2022-09-12,"e-commerce, retail",New York,Wall Street Journal,Public,,1970-01-01 00:00:00.000002022,1970-01
+TuSimple,350.0,25.0,2022-12-21,"electric vehicle, transportation",San Diego,TechCrunch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Qualtrics,15727.0,25.0,2023-01-11,"SaaS, enterprise software","Provo, UT",MarketWatch,Public,,1970-01-01 00:00:00.000002023,1970-01
+PayPal,83.0,27.0,2022-05-23,Fintech,San Jose,The Information,Public,,1970-01-01 00:00:00.000002022,1970-01
+Blend,6017.0,28.0,2023-01-10,"Fintech, proptech",San Francisco,Inman,Public,,1970-01-01 00:00:00.000002023,1970-01
+Juul,400.0,30.0,2022-11-10,"consumer goods, vape pens",San Francisco,CNBC,Public,,1970-01-01 00:00:00.000002022,1970-01
+Akili Interactive Labs,46.0,30.0,2023-01-12,Health care,Boston,Behavioral Health Business,Public,,1970-01-01 00:00:00.000002023,1970-01
+Robinhood,1013.0,33.0,2022-08-02,Fintech,Menlo Park,Robinhood,Public,,1970-01-01 00:00:00.000002022,1970-01
+Playtika,250.0,33.0,2022-05-31,Gaming,Tel Aviv,Globes,Public,"Closing studios in London, Montreal, and Los Angeles. Layoffs affected around 33% of employees.",1970-01-01 00:00:00.000002022,1970-01
+Vroom,647.0,33.0,2022-08-08,"Auto, E-commerce",New York,Automotive News,Public,,1970-01-01 00:00:00.000002022,1970-01
+Stitch Fix,654.0,35.0,2023-01-05,"Ecommerce, Fashion",San Francisco,CNBC,Public,,1970-01-01 00:00:00.000002023,1970-01
+Latch,115.0,37.0,2022-08-02,PropTech,"New York, NY",Latch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Sema4,750.0,39.0,2022-11-14,"AI, health care","Stamford, CT",MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Root Insurance,467.0,40.0,2022-11-09,InsurTech,Columbus,Columbus Dispatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Coinbase,2110.0,43.0,2023-01-10,Crypto,San Francisco,CNBC,Public,,1970-01-01 00:00:00.000002023,1970-01
+Volta Charging,1294.0,54.0,2022-10-21,"Automotive, electric vehicles",San Francisco,Volta,Public,,1970-01-01 00:00:00.000002022,1970-01
+Twitter,3740.0,70.0,2023-01-05,Social Media,San Francisco,The Information,Public,,1970-01-01 00:00:00.000002023,1970-01
+Starry,2815.0,74.0,2023-01-18,"WiFi, hardware",Boston,SEC filings,Public,,1970-01-01 00:00:00.000002023,1970-01
+RingCentral,80.0,38.0,2023-01-17,"SaaS, meeting software","Belmont, CA",Barron's,Public,,1970-01-01 00:00:00.000002023,1970-01
+Carvana,4000.0,94.0,2023-01-13,"Automotive, Ecommerce",Tempe,WSJ,Public,,1970-01-01 00:00:00.000002023,1970-01
+Adobe,100.0,12.0,2022-12-06,"Marketing, software, SaaS","San Jose, CA",Bloomberg,Public,,1970-01-01 00:00:00.000002022,1970-01
+Invitae,1000.0,27.0,2022-07-18,"Health Care, Biotech",San Francisco,GenomeWeb,Public,,1970-01-01 00:00:00.000002022,1970-01
+Microsoft,10000.0,58.0,2023-01-18,Enterprise Software,Seattle,Microsoft,Public,,1970-01-01 00:00:00.000002023,1970-01
+Alphabet,12000.0,32.0,2023-01-20,"Big tech, internet services","Mountain View, CA",CNBC,Public,,1970-01-01 00:00:00.000002023,1970-01
+Qualcomm,153.0,54.0,2022-12-22,"Telecommunication, wireless",San Diego,San Diego Union-Tribune,Public,,1970-01-01 00:00:00.000002022,1970-01
+Okta,24.0,80.0,2022-08-26,"Enterprise software, Management information systems",San Francisco,Unleash,Public,,1970-01-01 00:00:00.000002022,1970-01
+Beyond Meat,240.0,51.0,2022-10-14,Foodtech,"Manhattan Beach, CA",CNBC,Public,,1970-01-01 00:00:00.000002022,1970-01
+WeWork,300.0,31.0,2023-01-19,"Real Estate, PropTech",New York,WeWork,Public,,1970-01-01 00:00:00.000002023,1970-01
+Peloton,4084.0,13.0,2022-10-06,Fitness,New York,CNBC,Public,"Peloton previously laid off 3,584 in February",1970-01-01 00:00:00.000002022,1970-01
+UiPath,451.0,60.0,2022-11-15,Artificial Intelligence,New York,MarketWatch,Public,,1970-01-01 00:00:00.000002022,1970-01
+Netflix,480.0,80.0,2022-09-14,Media/entertainment,Los Gatos,Deadline,Public,,1970-01-01 00:00:00.000002022,1970-01
+Cue,558.0,32.0,2023-01-05,Health Care,San Diego,360dx,Public,,1970-01-01 00:00:00.000002023,1970-01
+Warby Parker,63.0,82.0,2022-08-08,"Ecommerce, Fashion",New York City,Insider,Public,,1970-01-01 00:00:00.000002022,1970-01
+HashiCorp,69.0,60.0,2023-01-11,"cybersecurity, cloud infrastructure",San Francisco,Crunchbase News Reporting,Public,,1970-01-01 00:00:00.000002023,1970-01
+Quanergy Systems,72.0,78.0,2022-12-14,Autonomous vehicles,"Sunnyvale, CA",Silicon Valley Business Journal,Public,,1970-01-01 00:00:00.000002022,1970-01
+Doma,825.0,72.0,2022-12-06,"Insurtech, machine learning",San Francsico,Doma,Public,The company previously laid off workers in May.,1970-01-01 00:00:00.000002022,1970-01
+Wayfair,870.0,34.0,2022-08-19,"E-commerce, retail",Boston,Boston Globe,Public,,1970-01-01 00:00:00.000002022,1970-01
+Salesforce,9090.0,47.0,2023-01-04,"enterprise tech, analytics",San Francisco,New York Times,Public,,1970-01-01 00:00:00.000002023,1970-01
+Oracle,6149.0,30.0,2022-08-01,"SaaS, enterprise software",Austin,The Information,Public,The Information reported thousands of people would be laid off,1970-01-01 00:00:00.000002022,1970-01
+LivePerson,3568.0,22.0,2022-09-15,Customer service,New York,LinkedIn,Public,,1970-01-01 00:00:00.000002022,1970-01
+Skillz,3725.0,5.0,2022-08-29,"Mobile Apps, Gaming",San Francisco,Seeking Alpha,Public,,1970-01-01 00:00:00.000002022,1970-01
+Blueboard,5472.0,48.0,2022-11-03,Enterprise Software,San Francisco,LinkedIn reports,Private,,1970-01-01 00:00:00.000002022,1970-01
